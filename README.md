@@ -1,12 +1,3 @@
-# MACS
-# MACS
-# MACS
-# SD
-# SD
-# SD
-# SD
-# SD
-# MACS
-# MACS
-# Stochastic_Calculus
-# SD-TSIA
+
+Labs I did during my year-long specialization on Data Science and Signal Processing for Artificial Intelligence at Telecom Paristech
+
